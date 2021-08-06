@@ -1,0 +1,11 @@
+E:\1A_WorkSpace\windows\C++\railgun2\RailgunCalcWin\bin\Debug\RailgunCalcWin.exe.config
+E:\1A_WorkSpace\windows\C++\railgun2\RailgunCalcWin\bin\Debug\RailgunCalcWin.exe
+E:\1A_WorkSpace\windows\C++\railgun2\RailgunCalcWin\bin\Debug\RailgunCalcWin.pdb
+E:\1A_WorkSpace\windows\C++\railgun2\RailgunCalcWin\obj\Debug\RailgunCalcWin.csprojAssemblyReference.cache
+E:\1A_WorkSpace\windows\C++\railgun2\RailgunCalcWin\obj\Debug\RailgunCalcWin.Properties.Resources.resources
+E:\1A_WorkSpace\windows\C++\railgun2\RailgunCalcWin\obj\Debug\RailgunCalcWin.csproj.GenerateResource.cache
+E:\1A_WorkSpace\windows\C++\railgun2\RailgunCalcWin\obj\Debug\RailgunCalcWin.csproj.CoreCompileInputs.cache
+E:\1A_WorkSpace\windows\C++\railgun2\RailgunCalcWin\obj\Debug\RailgunCalcWin.exe
+E:\1A_WorkSpace\windows\C++\railgun2\RailgunCalcWin\obj\Debug\RailgunCalcWin.pdb
+E:\1A_WorkSpace\windows\C++\railgun2\RailgunCalcWin\obj\Debug\RailgunCalcWin.FormWaveLs.resources
+E:\1A_WorkSpace\windows\C++\railgun2\RailgunCalcWin\obj\Debug\RailgunCalcWin.FormMain.resources

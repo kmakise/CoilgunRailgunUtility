@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailgunCalcWin", "RailgunCalcWin.csproj", "{15531040-04AE-46DB-A70D-1E8C28FC0AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15531040-04AE-46DB-A70D-1E8C28FC0AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15531040-04AE-46DB-A70D-1E8C28FC0AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15531040-04AE-46DB-A70D-1E8C28FC0AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15531040-04AE-46DB-A70D-1E8C28FC0AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FB09ACC-676A-4311-A768-8520F419CA15}
+	EndGlobalSection
+EndGlobal
